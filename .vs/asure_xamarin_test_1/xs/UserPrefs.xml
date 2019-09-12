@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BB7BDDFB-5B0F-48E2-8FA4-1166D0609778}|Default">
+  <MonoDevelop.Ide.ItemProperties.asure__xamarin__test__1.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="asure_xamarin_test_1.tests/TestTests.cs">
+    <Files>
+      <File FileName="asure_xamarin_test_1.tests/TestTests.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asure_xamarin_test_1" expanded="True">
+            <Node name="asure_xamarin_test_1.tests" expanded="True">
+              <Node name="TestTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

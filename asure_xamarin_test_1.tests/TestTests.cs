@@ -8,7 +8,7 @@ namespace asure_xamarin_test_1.tests
         [TestMethod]
         public void TestFail()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
 
 

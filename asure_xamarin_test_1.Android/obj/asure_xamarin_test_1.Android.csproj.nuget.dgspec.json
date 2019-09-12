@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj": {}
+    "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj": {}
   },
   "projects": {
-    "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj": {
+    "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj",
+        "projectUniqueName": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj",
         "projectName": "asure_xamarin_test_1.Android",
-        "projectPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj",
+        "projectPath": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1.Android/asure_xamarin_test_1.Android.csproj",
         "packagesPath": "/Users/deokalule/.nuget/packages/",
-        "outputPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.Android/obj/",
+        "outputPath": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/asure_xamarin_test_1.csproj": {
-                "projectPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/asure_xamarin_test_1.csproj"
+              "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/asure_xamarin_test_1.csproj": {
+                "projectPath": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/asure_xamarin_test_1.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/asure_xamarin_test_1.csproj": {
+    "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/asure_xamarin_test_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/asure_xamarin_test_1.csproj",
+        "projectUniqueName": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/asure_xamarin_test_1.csproj",
         "projectName": "asure_xamarin_test_1",
-        "projectPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/asure_xamarin_test_1.csproj",
+        "projectPath": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/asure_xamarin_test_1.csproj",
         "packagesPath": "/Users/deokalule/.nuget/packages/",
-        "outputPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1/obj/",
+        "outputPath": "/Users/deokalule/Desktop/azure_xamarin_test_2/asure_xamarin_test_1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
