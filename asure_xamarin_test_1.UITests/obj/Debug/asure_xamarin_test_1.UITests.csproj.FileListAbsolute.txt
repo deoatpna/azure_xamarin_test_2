@@ -1,0 +1,9 @@
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/bin/Debug/asure_xamarin_test_1.UITests.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/bin/Debug/asure_xamarin_test_1.UITests.pdb
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/bin/Debug/nunit.framework.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/Debug/asure_xamarin_test_1.UITests.csprojAssemblyReference.cache
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/Debug/asure_xamarin_test_1.UITests.csproj.CoreCompileInputs.cache
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/Debug/asure_xamarin_test_1.UITests.csproj.CopyComplete
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/Debug/asure_xamarin_test_1.UITests.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/Debug/asure_xamarin_test_1.UITests.pdb

@@ -1,0 +1,17 @@
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.deps.json
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.runtimeconfig.json
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.runtimeconfig.dev.json
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.pdb
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/bin/Debug/netcoreapp2.2/asure_xamarin_test_1.pdb
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.csprojAssemblyReference.cache
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.csproj.CoreCompileInputs.cache
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.AssemblyInfoInputs.cache
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.AssemblyInfo.cs
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.csproj.CopyComplete
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.dll
+/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.tests/obj/Debug/netcoreapp2.2/asure_xamarin_test_1.tests.pdb

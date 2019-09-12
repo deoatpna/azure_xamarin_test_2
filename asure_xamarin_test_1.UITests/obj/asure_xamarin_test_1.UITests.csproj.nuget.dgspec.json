@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/asure_xamarin_test_1.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/asure_xamarin_test_1.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/asure_xamarin_test_1.UITests.csproj",
+        "projectName": "asure_xamarin_test_1.UITests",
+        "projectPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/asure_xamarin_test_1.UITests.csproj",
+        "packagesPath": "/Users/deokalule/.nuget/packages/",
+        "outputPath": "/Users/deokalule/Desktop/asure_xamarin_test_1/asure_xamarin_test_1.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/deokalule/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
